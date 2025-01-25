@@ -24,7 +24,9 @@ cd e-a-code-challenge
 npm install
 ```
 
-4. Run the application:
+4. Create a `.env` file with your Open AI API key, as outlined in `.env.example`
+
+5. Run the application:
 
 ```sh
 npm start
